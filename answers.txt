@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: Because Git allows multiple people to work on a single project significantly easier without having to send files upone every change, and its version control features allow people to test and debug without the fear of erasing all progress.
